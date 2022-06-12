@@ -1,6 +1,6 @@
 ## Hey 👋, This is Ruan
 
-[![Mail Badge](https://img.shields.io/badge/-99746460@qq.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:99746460@qq.com)](mailto:99746460@qq.com) [![Github Badge](https://img.shields.io/badge/-ryyyc-grey?style=flat&logo=github&logoColor=white&link=https://github.com/l0n3rs)](https://www.github.com/l0n3rs)
+[![Mail Badge](https://img.shields.io/badge/-99746460@qq.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:99746460@qq.com)](mailto:99746460@qq.com) [![Github Badge](https://img.shields.io/badge/-l0n3rs-grey?style=flat&logo=github&logoColor=white&link=https://github.com/l0n3rs)](https://www.github.com/l0n3rs)
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=l0n3rs alt=l0n3rs /> </p>
 
